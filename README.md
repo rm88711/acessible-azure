@@ -14,6 +14,10 @@
 
 ```
 
+CRIAR IMAGEM NO DOCKER: precisar esta logado no docker
+
+```
+
 docker build -t prikkas -f Dockerfile .
 
 ```
